@@ -12,6 +12,7 @@ t:custom-skin/custom-skin.json:custom-skin/custom-skin-13e865fe3a7a4b33cc392c4c4
 t:custom-skin/mb-reg-10.fnt:custom-skin/mb-reg-10-51fd5a0bdc9681a8e4944e9a62a6761e.fnt:18037:application/unknown:1
 t:custom-skin/mb-20.fnt:custom-skin/mb-20-86a660164e4701addf136a26b55ab1c2.fnt:18033:application/unknown:1
 i:custom-skin/custom-skin.png:custom-skin/custom-skin-763c84fba26e43436f8850eaf615c347.png:411789:image/png:1
+i:1.jpeg:1-b117bee9a1fb5e048dcb29b03586179e.jpeg:205128:image/jpeg:1
 i:logo.png:logo-a88d33c7c49ce55154caab9706d15c3a.png:165445:image/png:1
 i:badlogic.jpg:badlogic-ba3e909e98a4c58c6a15f043f2e1a8a7.jpg:68465:image/jpeg:1
 i:1.png:1-73272b6702a9ea61d2a253e66426cb91.png:390945:image/png:1
