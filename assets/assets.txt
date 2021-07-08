@@ -15,6 +15,7 @@ i:custom-skin/custom-skin.png:custom-skin/custom-skin-763c84fba26e43436f8850eaf6
 i:1.jpeg:1-b117bee9a1fb5e048dcb29b03586179e.jpeg:205128:image/jpeg:1
 i:logo.png:logo-a88d33c7c49ce55154caab9706d15c3a.png:165445:image/png:1
 i:badlogic.jpg:badlogic-ba3e909e98a4c58c6a15f043f2e1a8a7.jpg:68465:image/jpeg:1
+i:back.png:back-1e8b3bb7775d2bbcd96381fd81efaf34.png:2636:image/png:1
 i:1.png:1-73272b6702a9ea61d2a253e66426cb91.png:390945:image/png:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:particles.fragment-b90524761fdf09b0a836056d590c30b8.glsl:820:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:particles.vertex-f25b8b2fae10b9bfa09bfdd484923148.glsl:2886:application/unknown:1
