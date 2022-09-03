@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/referal-links.github.io/static/css/main.b6876238.css",
+    "main.js": "/referal-links.github.io/static/js/main.7f2be543.js",
+    "static/media/primeicons.svg": "/referal-links.github.io/static/media/primeicons.c6e2053303524e39530c.svg",
+    "static/media/primeicons.eot": "/referal-links.github.io/static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
+    "static/media/primeicons.woff": "/referal-links.github.io/static/media/primeicons.449aa8c65cdc5c2a8686.woff",
+    "static/media/primeicons.ttf": "/referal-links.github.io/static/media/primeicons.91bacab1f083f2795272.ttf",
+    "index.html": "/referal-links.github.io/index.html",
+    "main.b6876238.css.map": "/referal-links.github.io/static/css/main.b6876238.css.map",
+    "main.7f2be543.js.map": "/referal-links.github.io/static/js/main.7f2be543.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6876238.css",
+    "static/js/main.7f2be543.js"
+  ]
+}
